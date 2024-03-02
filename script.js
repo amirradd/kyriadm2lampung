@@ -58,3 +58,13 @@ document.addEventListener("scroll", (e) => {
     window.scrollY / 5
   }px)`;
 });
+
+window,addEventListener("load", () => {
+  const loader = document.querySelector(".loader");
+  
+  loader.classList.add("loader-hidden");
+
+  loader.addEventListener("transitionend", () => {
+    document.body.removeChild
+  })
+})
