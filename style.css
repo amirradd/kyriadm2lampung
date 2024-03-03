@@ -101,8 +101,6 @@ a {
 ul {
   width: 80%;
   max-width: 40rem;
-  display: flex;
-  justify-content: center;
 }
 
 ul li {
