@@ -82,6 +82,7 @@ body {
 a {
   text-decoration: none;
   color: inherit;
+  text-align: center;
 }
 
 .sosmed i {
@@ -105,7 +106,6 @@ ul {
 ul li {
   list-style: none;
 }
-
 
 ul.links li:not(:last-child) {
   margin-bottom: 1rem;
