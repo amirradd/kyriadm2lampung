@@ -114,6 +114,11 @@ ul.links li:not(:last-child) {
   margin-top: 1rem;
 }
 
+.links-bot {
+  width: 30%;
+  margin-left: 1rem;
+}
+
 .link-cardtop {
   display: flex;
   justify-content: space-between;
