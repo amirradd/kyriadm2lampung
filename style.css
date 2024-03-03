@@ -111,6 +111,10 @@ ul.links li:not(:last-child) {
   margin-bottom: 1rem;
 }
 
+li {
+  display: flex;
+}
+
 .links {
   margin-top: 1rem;
 }
