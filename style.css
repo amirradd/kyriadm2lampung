@@ -112,7 +112,7 @@ ul.links li:not(:last-child) {
 }
 
 li {
-  display: flex;
+  display: inline-blocks;
 }
 
 .links {
