@@ -107,7 +107,6 @@ ul li {
 
 ul.links li:not(:last-child) {
   margin-bottom: 1rem;
-  margin-left: 1rem;
 }
 
 .links {
