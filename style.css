@@ -111,6 +111,8 @@ ul li {
 
 ul.links li:not(:last-child) {
   margin-bottom: 1rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 .links {
