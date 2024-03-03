@@ -117,8 +117,9 @@ ul.links li:not(:last-child) {
 .links-bot {
   width: 30%;
   margin-top: 1rem;
+  margin-left: 1rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .link-cardtop {
