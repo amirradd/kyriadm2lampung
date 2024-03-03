@@ -116,6 +116,7 @@ ul.links li:not(:last-child) {
 
 .links-bot {
   width: 100%;
+  height: 50px;
   margin-top: 1rem;
   margin-left: 1rem;
   display: flex;
