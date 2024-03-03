@@ -135,7 +135,7 @@ ul.links li:not(:last-child) {
 }
 
 .link-card {
-  display: flex;
+  display: inline-block;
   justify-content: center;
   align-items: center;
   background-color: #2d2d56;
