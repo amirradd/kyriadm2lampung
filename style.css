@@ -98,7 +98,6 @@ a {
 }
 
 ul {
-  width: 80%;
   max-width: 40rem;
 }
 
@@ -111,6 +110,7 @@ ul.links li:not(:last-child) {
 }
 
 .links {
+  width: 80%;
   margin-top: 1rem;
 }
 
